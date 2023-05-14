@@ -65,7 +65,7 @@ class _MyHomePageState extends State<MyHomePage> {
           notificationService?.displayNotification();
         },
         tooltip: 'Increment',
-        child: const Icon(Icons.add),
+        child: const Icon(Icons.notification_add),
       ), // This trailing comma makes auto-formatting nicer for build methods.
     );
   }
