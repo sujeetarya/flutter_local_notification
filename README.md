@@ -36,4 +36,4 @@ if #available(iOS 10.0, *) {
 * you may show the notification on the spot or schedule it for latter
 
 ### Screenshot(s)
-![ss01](ss/ss_01.png){ width=30% }
+<img src="ss/ss_01.png" alt="screen short" style="width:30%;"/>
